@@ -45,3 +45,4 @@ Our system:
 - Machine Learning & Deep Learning
 - MFCC (Mel-Frequency Cepstral Coefficients) for feature extraction
 - CNN & LSTM for emotion classification
+EOF
